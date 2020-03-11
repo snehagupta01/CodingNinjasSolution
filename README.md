@@ -1,3 +1,4 @@
 # Coding Ninjas Practice Problem Solution
 ## Topics Covered:
-### -> Pattern
+### -> Patterns
+### -> Arrays
